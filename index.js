@@ -1,7 +1,7 @@
-function greet() {
-    console.log('Welcome to Tech Evangelism Seminars!');
+function greet(name) {
+    console.log(`Welcome to Tech Evangelism Seminars, ${name}!`);
 }
 
-greet();
+greet('Attendee');
 
 // Additional functionalities can be added here.
