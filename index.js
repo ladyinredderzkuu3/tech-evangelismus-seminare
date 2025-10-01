@@ -1,3 +1,3 @@
-console.log('Willkommen zu Tech Evangelismus Seminare!');
+console.log('Welcome to Tech Evangelism Seminars!');
 
-// Hier können weitere Funktionalitäten hinzugefügt werden.
+// Additional functionalities can be added here.
